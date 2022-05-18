@@ -1,0 +1,21 @@
+.books-table {
+    margin-top: 20px;
+}
+.books-table .text-center {
+    text-align: center;
+}
+.books-table td p {
+    padding: 0;
+    margin: 0;
+}
+
+ul.admin-pagination {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.admin-pagination li {
+    padding: 0.5rem 0.5rem;
+}
